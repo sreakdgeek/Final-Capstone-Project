@@ -1,0 +1,8 @@
+prefix=/home/workspace/Final-Capstone-Project/ros/devel
+
+Name: styx_msgs
+Description: Description of styx_msgs
+Version: 0.0.0
+Cflags: -I/home/workspace/Final-Capstone-Project/ros/devel/include
+Libs: -L/home/workspace/Final-Capstone-Project/ros/devel/lib 
+Requires: 

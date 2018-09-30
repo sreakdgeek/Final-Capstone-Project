@@ -1,0 +1,8 @@
+prefix=/home/workspace/Final-Capstone-Project/ros/install
+
+Name: waypoint_loader
+Description: Description of waypoint_loader
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/workspace/Final-Capstone-Project/ros/install/lib 
+Requires: 
